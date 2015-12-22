@@ -1,0 +1,5 @@
+# IDE/Editor files
+.idea
+
+# scala build folders
+target
